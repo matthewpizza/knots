@@ -1,0 +1,19 @@
+{% include header.html %}
+
+	<div id="single">
+
+		<div class="single single-post category-{{ page.categories | first }}">
+			<span class="post-category">{{ page.categories | first }}</span>
+			<h2>{{ page.title }}</h2>
+			<div class="date">{{ page.date | date_to_long_string }}</div>
+
+			<div class="entry">
+				<iframe src="//player.vimeo.com/video/{{ page.vimeo }}?byline=0&amp;portrait=0" width="600" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				{{ page.content | markdownify }}
+				<p>Tags: {{ page.tags | array_to_sentence_string }}</p>
+			</div>
+		</div>
+
+	</div>
+
+{% include footer.html %}
