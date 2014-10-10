@@ -1,3 +1,6 @@
 name: "Hitch or Fist"
 url: "http://matthewspencer.github.io/knots/"
-permalink: ":category/:title/"
+permalink: ":category/:title"
+paginate: 12
+paginate_path: "page/:num"
+markdown: kramdown
