@@ -8,3 +8,5 @@ paginate_path: "page/:num"
 markdown: kramdown
 exclude:
   - README.md
+  - bin
+  - node_modules
