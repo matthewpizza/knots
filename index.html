@@ -5,7 +5,7 @@ title: Hitch or Fist
 {% for post in paginator.posts %}
 <div class="post excerpt category-{{ post.categories | first }}">
 	<span class="post-category">{{ post.categories }}</span>
-	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+	<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
 	<iframe src="//player.vimeo.com/video/{{ post.vimeo }}?byline=0&amp;portrait=0" width="220" height="165" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 {% endfor %}
