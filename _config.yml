@@ -1,6 +1,6 @@
 name: "Hitch or Fist"
-url: "http://matthewspencer.github.io/knots"
-baseurl: "http://matthewspencer.github.io/knots"
+url: "http://matthewspencer.me/knots"
+baseurl: "http://matthewspencer.me/knots"
 # url: "http://localhost:4000"
 permalink: "/:categories/:title/"
 paginate: 12
