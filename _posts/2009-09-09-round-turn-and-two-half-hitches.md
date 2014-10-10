@@ -2,8 +2,7 @@
 layout: post
 title: Round Turn + 2 Half Hitches
 date: 2009-09-09 08:00:01
-categories:
-- Hitch
+categories: Hitch
 tags:
 - half hitch
 - round turn and two half hitches

@@ -2,8 +2,7 @@
 layout: post
 title: Double Sheet Bend
 date: 2009-09-05 11:52:30
-categories:
-- Bend
+categories: Bend
 tags:
 - double sheet bend
 - sheet bend

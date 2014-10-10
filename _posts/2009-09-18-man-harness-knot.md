@@ -2,8 +2,7 @@
 layout: post
 title: Man-Harness Knot
 date: 2009-09-18 08:00:29
-categories:
-- Knot
+categories: Knot
 tags:
 - man-harness knot
 vimeo: 6558376

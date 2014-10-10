@@ -2,8 +2,7 @@
 layout: post
 title: Rolling Hitch
 date: 2009-09-12 08:00:41
-categories:
-- Hitch
+categories: Hitch
 tags:
 - clove hitch
 - rolling hitch

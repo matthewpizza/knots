@@ -2,8 +2,7 @@
 layout: post
 title: Rewoven Figure Eight
 date: 2009-09-15 08:00:47
-categories:
-- Knot
+categories: Knot
 tags:
 - figure eight knot
 - rewoven figure eight

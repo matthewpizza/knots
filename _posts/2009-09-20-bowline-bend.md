@@ -2,8 +2,7 @@
 layout: post
 title: Bowline Bend
 date: 2009-09-20 11:52:34
-categories:
-- Bend
+categories: Bend
 tags:
 - bowline
 - bowline bend

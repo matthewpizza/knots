@@ -2,8 +2,7 @@
 layout: post
 title: Painter's Hitch
 date: 2009-09-10 08:00:52
-categories:
-- Hitch
+categories: Hitch
 tags:
 - painter's hitch
 vimeo: 6473103

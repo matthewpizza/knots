@@ -2,8 +2,7 @@
 layout: post
 title: Granny Knot
 date: 2009-09-01 11:43:52
-categories:
-- Knot
+categories: Knot
 tags:
 - granny knot
 - reef knot

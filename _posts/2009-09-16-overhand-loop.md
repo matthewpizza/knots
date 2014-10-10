@@ -2,8 +2,7 @@
 layout: post
 title: Overhand Loop
 date: 2009-09-16 08:00:46
-categories:
-- Knot
+categories: Knot
 tags:
 - loop
 - overhand knot

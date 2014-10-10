@@ -2,8 +2,7 @@
 layout: post
 title: Clove Hitch
 date: 2009-09-11 08:00:51
-categories:
-- Hitch
+categories: Hitch
 tags:
 - clove hitch
 vimeo: 6473131

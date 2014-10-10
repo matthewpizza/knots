@@ -2,8 +2,7 @@
 layout: post
 title: Figure Eight Loop
 date: 2009-09-17 08:00:41
-categories:
-- Knot
+categories: Knot
 tags:
 - figure eight knot
 - figure eight loop

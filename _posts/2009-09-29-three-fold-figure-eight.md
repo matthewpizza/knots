@@ -2,8 +2,7 @@
 layout: post
 title: Three-Fold Figure Eight
 date: 2009-09-29 12:00:28
-categories:
-- Knot
+categories: Knot
 tags:
 - figure eight knot
 - three-fold figure-eight

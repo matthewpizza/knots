@@ -2,8 +2,7 @@
 layout: post
 title: Butterfly Loop
 date: 2009-09-07 09:30:04
-categories:
-- Knot
+categories: Knot
 tags:
 - butterfly loop
 - lineman's loop

@@ -2,8 +2,7 @@
 layout: post
 title: Stevedore's Knot
 date: 2009-09-22 08:55:44
-categories:
-- Hitch
+categories: Hitch
 tags:
 - Stevedore's Knot
 vimeo: 6677456

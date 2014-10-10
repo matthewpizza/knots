@@ -2,8 +2,7 @@
 layout: post
 title: Half Hitch
 date: 2009-09-08 08:00:44
-categories:
-- Hitch
+categories: Hitch
 tags:
 - half hitch
 vimeo: 6472986

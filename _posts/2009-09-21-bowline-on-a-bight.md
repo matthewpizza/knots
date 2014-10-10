@@ -2,8 +2,7 @@
 layout: post
 title: Bowline on a Bight
 date: 2009-09-21 00:01:00
-categories:
-- Knot
+categories: Knot
 tags:
 - bowline
 - bowline on a bight

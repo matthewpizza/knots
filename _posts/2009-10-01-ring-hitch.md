@@ -2,8 +2,7 @@
 layout: post
 title: Ring Hitch
 date: 2009-10-01 17:25:26
-categories:
-- Hitch
+categories: Hitch
 tags:
 - lark's head
 - ring hitch

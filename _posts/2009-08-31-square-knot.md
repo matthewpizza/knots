@@ -2,8 +2,7 @@
 layout: post
 title: Square Knot
 date: 2009-08-31 11:43:05
-categories:
-- Knot
+categories: Knot
 tags:
 - reef knot
 - square knot

@@ -2,8 +2,7 @@
 layout: post
 title: Single Jury Mast
 date: 2010-03-12 19:31:16
-categories:
-- Knot
+categories: Knot
 tags:
 - Single Jury Mast
 - Spanish Knot

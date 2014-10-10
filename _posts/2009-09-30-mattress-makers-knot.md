@@ -2,8 +2,7 @@
 layout: post
 title: Mattress-maker's knot
 date: 2009-09-30 17:14:55
-categories:
-- Hitch
+categories: Hitch
 tags:
 - mattress-maker's
 vimeo: 6886185

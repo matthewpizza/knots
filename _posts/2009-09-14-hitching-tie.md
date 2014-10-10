@@ -2,8 +2,7 @@
 layout: post
 title: Hitching Tie
 date: 2009-09-14 08:00:11
-categories:
-- Hitch
+categories: Hitch
 tags:
 - hitching tie
 vimeo: 6473726

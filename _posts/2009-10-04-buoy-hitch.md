@@ -2,8 +2,7 @@
 layout: post
 title: Buoy Hitch
 date: 2009-10-04 10:05:46
-categories:
-- Hitch
+categories: Hitch
 tags: []
 vimeo: 6886205
 ---

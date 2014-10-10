@@ -2,8 +2,7 @@
 layout: post
 title: Lark's Head
 date: 2009-09-13 08:00:36
-categories:
-- Hitch
+categories: Hitch
 tags:
 - lark's head
 vimeo: 6473209

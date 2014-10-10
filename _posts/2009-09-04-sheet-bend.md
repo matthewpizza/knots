@@ -2,8 +2,7 @@
 layout: post
 title: Sheet Bend
 date: 2009-09-04 11:49:31
-categories:
-- Bend
+categories: Bend
 tags:
 - sheet bend
 vimeo: 6457608

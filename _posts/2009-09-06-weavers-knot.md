@@ -2,8 +2,7 @@
 layout: post
 title: Weaver's Knot
 date: 2009-09-06 11:55:26
-categories:
-- Bend
+categories: Bend
 tags:
 - sheet bend
 - weaver's knot

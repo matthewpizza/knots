@@ -2,8 +2,7 @@
 layout: post
 title: Fisherman's Bend
 date: 2009-10-03 17:43:24
-categories:
-- Hitch
+categories: Hitch
 tags:
 - fisherman's bend
 vimeo: 6886201
