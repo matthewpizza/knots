@@ -18,10 +18,10 @@ html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pr
 .edit-link{margin:10px 0;}
 .date{margin-bottom:5px;}
 .excerpt{width:220px;height:220px;margin:10px;float:left;overflow:hidden;}
-.post-category a{text-transform:uppercase;font-weight:bold;font-size:10px;color:#000;}
-.category-knot > .post-category a{color:maroon;}
-.category-bend > .post-category a{color:olive;}
-.category-hitch > .post-category a{color:green;}
+.post-category {text-transform:uppercase;font-weight:bold;font-size:10px;color:#000;}
+.category-knot > .post-category {color:maroon;}
+.category-bend > .post-category {color:olive;}
+.category-hitch > .post-category {color:green;}
 /* End Layout */
 
 /* Begin Typography & Colors */
@@ -48,7 +48,7 @@ code{font:1.1em 'Courier New',Courier,Fixed;}
 acronym,abbr,span.caps{font-size:0.9em;letter-spacing:.07em;}
 /* End Typography & Colors */
 
-/*Begin Headers */
+/* Begin Headers */
 h1{margin:0;}
 h2.pagetitle{margin-top:30px;}
 #sidebar h2{margin:5px 0 0;padding:0;}
