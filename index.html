@@ -6,6 +6,6 @@ title: Hitch or Fist
 <div class="post excerpt category-{{ post.categories | first }}">
 	<span class="post-category">{{ post.categories }}</span>
 	<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
-	<iframe src="//player.vimeo.com/video/{{ post.vimeo }}?byline=0&amp;portrait=0" width="220" height="165" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+	<img src="{{ site.url }}/images/{{ post.vimeo }}.jpg" width="220" height="165">
 </div>
 {% endfor %}
