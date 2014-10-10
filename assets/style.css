@@ -1,0 +1,123 @@
+/*
+Copyright (c) 2009,Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version:2.7.0
+*/
+html{color:#000;background:#FFF;}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td{margin:0;padding:0;}table{border-collapse:collapse;border-spacing:0;}fieldset,img{border:0;}address,caption,cite,code,dfn,em,strong,th,var,optgroup{font-style:inherit;font-weight:inherit;}del,ins{text-decoration:none;}li{list-style:none;}caption,th{text-align:left;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal;}q:before,q:after{content:'';}abbr,acronym{border:0;font-variant:normal;}sup{vertical-align:baseline;}sub{vertical-align:baseline;}legend{color:#000;}input,button,textarea,select,optgroup,option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;}input,button,textarea,select{*font-size:100%;}body{font:13px/1.231 arial,helvetica,clean,sans-serif;*font-size:small;*font:x-small;}select,input,button,textarea,button{font:99% arial,helvetica,clean,sans-serif;}table{font-size:inherit;font:100%;}pre,code,kbd,samp,tt{font-family:monospace;*font-size:108%;line-height:100%;}
+
+/* Begin Layout */
+#wrap{width:960px;margin:0 auto;}
+#home{clear:both;margin-bottom:10px;display:block;}
+#single{width:600px;margin:0 auto;padding:0;}
+#sidebar{padding:20px 10px 10px 10px;clear:both;}
+#sidebar form{margin:0;}
+#footer{margin:10px 0;padding:0px 10px;text-align:center;}
+.post{width:600px;margin:0 auto;}
+.post > h2{clear:both;}
+.edit-link{margin:10px 0;}
+.date{margin-bottom:5px;}
+.excerpt{width:220px;height:220px;margin:10px;float:left;overflow:hidden;}
+.post-category a{text-transform:uppercase;font-weight:bold;font-size:10px;color:#000;}
+.category-knot > .post-category a{color:maroon;}
+.category-bend > .post-category a{color:olive;}
+.category-hitch > .post-category a{color:green;}
+/* End Layout */
+
+/* Begin Typography & Colors */
+body{font-family:Futura,HelveticaNeue,"Helvetica Neue",Helvetica,Arial,sans-serif;text-align:left;}
+a{text-decoration:none;color:navy;}
+strong{font-weight:bold;}
+em{font-style:italic;}
+
+small{font-family:Futura,HelveticaNeue,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:0.9em;line-height:1.5em;}
+h1,h2,h3{font-family:Futura,HelveticaNeue,"Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:normal;margin:0 0 2px 0;padding:0;}
+h1{font-size:4em;font-weight:bold;text-transform:uppercase}
+#header{margin-left:10px;padding:40px 0px 30px 0px;}
+body.single #header,body.page #header{margin-left:180px;}
+.description{font-size:11px;}
+h2{font-size:16px;}
+h2.pagetitle{font-size:1.6em;}
+#sidebar h2{font-family:Futura,HelveticaNeue,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:1.2em;}
+h3{font-size:1.3em;}
+.entry p a:visited{color:#b85b5a;}
+.sticky{background:#f7f7f7;padding:0 10px 10px;}
+.sticky h2{padding-top:10px;}
+small,#sidebar ul ul li,#sidebar ul ol li,.nocomments,.postmetadata,blockquote,strike{color:#777;}
+code{font:1.1em 'Courier New',Courier,Fixed;}
+acronym,abbr,span.caps{font-size:0.9em;letter-spacing:.07em;}
+/* End Typography & Colors */
+
+/*Begin Headers */
+h1{margin:0;}
+h2.pagetitle{margin-top:30px;}
+#sidebar h2{margin:5px 0 0;padding:0;}
+h3{padding:0;margin:30px 0 0;}
+h3.comments{padding:0;margin:40px auto 20px ;}
+/* End Headers */
+
+/* Begin Images */
+p img{padding:0;max-width:100%;}
+img.centered{display:block;margin-left:auto;margin-right:auto;}
+img.alignright{padding:4px;margin:0 0 2px 7px;display:inline;}
+img.alignleft{padding:4px;margin:0 7px 2px 0;display:inline;}
+.alignright{float:right;}
+.alignleft{float:left;}
+/* End Images */
+
+/* Begin Lists */
+html>body .entry li{margin:7px 0 8px 0px;}
+.entry ul li:before,#sidebar ul ul li:before{content:"\00BB \0020";}
+.entry ol{padding:0 0 0 20px;margin:0;}
+.entry ol li{margin:0;padding:0;}
+.postmetadata ul,.postmetadata li{display:inline;list-style-type:none;list-style-image:none;}
+#sidebar ul,#sidebar ul ol{margin:0;padding:0;}
+#sidebar ul li{list-style-type:none;list-style-image:none;margin-bottom:15px;}
+#sidebar ul p,#sidebar ul select{margin:5px 0 8px;}
+#sidebar ul ul,#sidebar ul ol{margin:5px 0 0 10px;}
+#sidebar ul ul ul,#sidebar ul ol{margin:0 0 0 10px;}
+ol li,#sidebar ul ol li{list-style:decimal outside;}
+#sidebar ul ul li,#sidebar ul ol li{margin:3px 0 0;padding:0;}
+/* End Entry Lists */
+
+/* Begin Form Elements */
+#searchform{margin:10px auto;}
+#sidebar #searchform #s{width:108px;padding:2px;}
+#sidebar #searchsubmit{padding:1px;}
+select{width:130px;}
+#commentform input{width:170px;padding:2px;margin:5px 5px 1px 0;}
+#commentform{margin:5px 10px 0 0;}
+#commentform textarea{width:100%;padding:2px;}
+#respond:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+#commentform #submit{margin:0 0 5px auto;float:right;}
+/* End Form Elements */
+
+/* Begin Various Tags & Classes */
+acronym,abbr,span.caps{cursor:help;}
+acronym,abbr{border-bottom:1px dashed #999;}
+blockquote{margin:15px 30px 0 10px;padding-left:20px;border-left:5px solid #ddd;}
+blockquote cite{margin:5px 0 0;display:block;}
+.center{text-align:center;}
+.hidden{display:none;}
+.screen-reader-text{position:absolute;left:-1000em;}
+hr{display:none;}
+a img{border:none;}
+#single .navigation{clear:both;padding:20px 0;}
+#home .navigation{clear:both;padding:20px 10px;}
+/* End Various Tags & Classes*/
+
+/* Captions */
+.aligncenter,div.aligncenter{display:block;margin-left:auto;margin-right:auto;}
+.wp-caption{border:1px solid #ddd;text-align:center;background-color:#f3f3f3;padding-top:4px;margin:10px;-moz-border-radius:3px;-khtml-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}
+.wp-caption img{margin:0;padding:0;border:0 none;}
+.wp-caption p.wp-caption-text{font-size:11px;line-height:17px;padding:0 4px 5px;margin:0;}
+/* End captions */
+
+/* Typography */
+sup{vertical-align:60%;font-size:75%;line-height:100%;}
+sub{vertical-align:-10%;font-size:75%;line-height:100%;}
+.amp{font-family:Baskerville,"Goudy Old Style","Palatino","Book Antiqua","Warnock Pro",serif;font-weight:normal;font-style:italic;font-size:1.1em;line-height:1em;}
+.caps{font-size:90%;}
+.dquo{margin-left:-.40em;}
+.quo{margin-left:-.2em;}
+/* End Typography */
