@@ -2,7 +2,7 @@
 layout: default
 title: Hitch or Fist
 ---
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <div class="post excerpt category-{{ post.categories | first }}">
 	<span class="post-category">{{ post.categories }}</span>
 	<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
