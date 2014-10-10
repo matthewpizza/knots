@@ -17,7 +17,7 @@
 <title>{{ page.title }}</title>
 <link rel="stylesheet" href="{{ site.url }}/assets/style.css" type="text/css" media="screen" />
 </head>
-<body class="{{ page.layout }}">
+<body class="{{ page.layout | slugify }}">
 <div id="wrap">
 <div id="header">
 <h1><a href="{{ site.url }}">{{ site.name }}</a></h1>
