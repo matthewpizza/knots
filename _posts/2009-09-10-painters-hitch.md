@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Painter's Hitch
 date: 2009-09-10 08:00:52
 categories: Hitch

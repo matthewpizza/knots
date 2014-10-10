@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Square Knot
 date: 2009-08-31 11:43:05
 categories: Knot

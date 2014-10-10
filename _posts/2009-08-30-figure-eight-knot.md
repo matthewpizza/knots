@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Figure Eight Knot
 date: 2009-08-30 11:41:47
 categories: Knot

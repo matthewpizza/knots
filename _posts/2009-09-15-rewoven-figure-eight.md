@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Rewoven Figure Eight
 date: 2009-09-15 08:00:47
 categories: Knot

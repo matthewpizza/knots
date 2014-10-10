@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Surgeon's Knot
 date: 2009-09-02 11:46:30
 categories: Knot

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Round Turn + 2 Half Hitches
 date: 2009-09-09 08:00:01
 categories: Hitch

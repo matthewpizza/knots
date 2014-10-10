@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: True Lover's Knot
 date: 2009-09-23 09:00:08
 categories: Bend

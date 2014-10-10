@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Buoy Hitch
 date: 2009-10-04 10:05:46
 categories: Hitch

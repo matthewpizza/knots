@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Rolling Hitch
 date: 2009-09-12 08:00:41
 categories: Hitch

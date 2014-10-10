@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Double-Figure-Eight
 date: 2009-09-28 10:00:09
 categories: Knot

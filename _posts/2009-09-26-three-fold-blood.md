@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Three-Fold Blood
 date: 2009-09-26 12:16:14
 categories: Knot

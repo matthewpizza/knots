@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Success Knot
 date: 2009-09-24 11:30:11
 categories: Knot

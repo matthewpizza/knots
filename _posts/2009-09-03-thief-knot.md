@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Thief Knot
 date: 2009-09-03 11:47:07
 categories: Knot

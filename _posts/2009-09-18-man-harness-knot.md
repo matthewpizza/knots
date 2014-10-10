@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Man-Harness Knot
 date: 2009-09-18 08:00:29
 categories: Knot

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Hitching Tie
 date: 2009-09-14 08:00:11
 categories: Hitch

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Four-Fold Blood
 date: 2009-09-27 09:48:28
 categories: Knot

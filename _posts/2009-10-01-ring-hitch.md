@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Ring Hitch
 date: 2009-10-01 17:25:26
 categories: Hitch

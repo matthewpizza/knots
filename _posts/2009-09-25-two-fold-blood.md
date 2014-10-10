@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Two-Fold Blood
 date: 2009-09-25 11:37:41
 categories: Knot

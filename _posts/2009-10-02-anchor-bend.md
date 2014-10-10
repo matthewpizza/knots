@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Anchor Bend
 date: 2009-10-02 17:30:30
 categories: Hitch

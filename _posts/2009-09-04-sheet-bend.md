@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Sheet Bend
 date: 2009-09-04 11:49:31
 categories: Bend

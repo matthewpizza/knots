@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Mattress-maker's knot
 date: 2009-09-30 17:14:55
 categories: Hitch

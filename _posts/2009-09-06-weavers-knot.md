@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Weaver's Knot
 date: 2009-09-06 11:55:26
 categories: Bend

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Stevedore's Knot
 date: 2009-09-22 08:55:44
 categories: Hitch

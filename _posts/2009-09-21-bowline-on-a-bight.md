@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Bowline on a Bight
 date: 2009-09-21 00:01:00
 categories: Knot

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Half Hitch
 date: 2009-09-08 08:00:44
 categories: Hitch

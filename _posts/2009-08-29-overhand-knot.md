@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Overhand Knot
 date: 2009-08-29 11:41:30
 categories: Knot

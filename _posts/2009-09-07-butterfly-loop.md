@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Butterfly Loop
 date: 2009-09-07 09:30:04
 categories: Knot
